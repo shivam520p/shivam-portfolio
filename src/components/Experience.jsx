@@ -2,13 +2,13 @@ import React from "react";
 
 const Experience = () => {
     const experiences = [
-        // {
-        //     role: "Software Developer Intern",
-        //     company: "NeraSoft Technologies, Noida",
-        //     duration: "November 2024 - Present",
-        //     description:
-        //         "During my internship, I developed and deployed web applications using React.js and Node.js, resulting in a 15% improvement in performance metrics. I collaborated with cross-functional teams to implement responsive designs and optimize user experience.",
-        // },
+        {
+            role: "Software Developer Intern",
+            company: "NeraSoft Technologies, Noida",
+            duration: "November 2024 - Present",
+            description:
+                "During my internship, I developed and deployed web applications using React.js and Node.js, resulting in a 15% improvement in performance metrics. I collaborated with cross-functional teams to implement responsive designs and optimize user experience.",
+        },
         {
             role: "Java Developer Training Program ",
             company: "QSpiders, Noida",
