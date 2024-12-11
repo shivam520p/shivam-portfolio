@@ -5,7 +5,7 @@ import {
   AiOutlineYoutube,
   AiOutlineFacebook,
 } from "react-icons/ai";
-const link="https://drive.google.com/file/d/1lQwq99E5q6H-5W41QqKO9yAHUvMa9Hwz/view?usp=sharing";
+const link="https://drive.google.com/file/d/1Q9Oeuta3yhyhAAdK-kcMv8-8p4kas4Re/view?usp=sharing";
 const Hero = () => {
   return (
     <section className="bg-primary px-5 text-white py-16" id="home">
